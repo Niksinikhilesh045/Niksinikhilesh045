@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Niksinikhilesh045
-- 👀 I’m interested in Creative writting, Bloging, Public speaking and more which i will tell you personally, if you.
-- 🌱 I’m currently learning Python and Cyber security essentials.
-- 💞️ I’m looking to collaborate on web application and security threat projects.
-- 📫 How to reach me ,just  search my username that is Niksinikhilesh@45 in GitHub or just mail me at nikhileshsingh045@gmail.com.
+- 👋 Hi, I’m Nikhilesh Singh
+- 👀 I love to do Creative writing, blogging, and Public speaking which I will tell you personally, if you.
+- 🌱 I’m a person who is passionate about Python and cybersecurity essentials.
+- 💞️ I want to collaborate on web applications and security threat projects.
+- 📫 How to reach me, search for the username which is Niksinikhilesh@45 in GitHub or just mail me at nikhileshsingh045@gmail.com.
 
 <!---
 Niksinikhilesh045/Niksinikhilesh045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
