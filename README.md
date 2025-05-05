@@ -10,8 +10,6 @@
 I'm a cybersecurity enthusiast and final-year B.Tech Computer Engineering student, passionate about securing systems and pushing the boundaries of DevSecOps. My work revolves around:
 
 - 🔐 Threat Detection & Security Automation  
-- 🧪 Honeypots (currently contributing to [DICOMHawk](https://github.com/TheHive-Project/DICOMHawk))  
-- 📦 Protocol parsing with [Spicy](https://github.com/zeek/spicy)  
 - 🔄 CI/CD pipelines with Jenkins + Automated Security Scanning  
 - 🐧 Hands-on with Wazuh, Splunk, TheHive, MITRE ATT&CK & more
 
@@ -19,29 +17,40 @@ I'm a cybersecurity enthusiast and final-year B.Tech Computer Engineering studen
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, Bash, C++, Java, PHP, SQL  
-- **Security**: Network Security, Endpoint Security, Malware Analysis, Incident Response  
-- **Tools & Frameworks**: Zeek, Spicy, OWASP ZAP, Metasploit, Docker, Jenkins, Burp Suite  
-- **Cloud & Platforms**: Linux, Windows, Google Cloud  
-- **Certifications**: CEH | CND | NDE  
+**Languages**: Python, C++, Bash, SQL, C  
+**Security Expertise**: Vulnerability Management, Threat Detection, SIEM, SOAR, Incident Response, Malware Analysis  
+**Tools**:  
+`Metasploit` · `Burp Suite` · `OWASP ZAP` · `TheHive` · `Wazuh` · `Docker` · `MITRE ATT&CK` · `SQLmap` · `Google Cloud`  
+**Frameworks**: Keras, Scikit-learn, TensorFlow  
+**OS**: Linux, Windows  
+**DevOps**: CI/CD Pipeline
+
+---
+
+## 🧾 Certifications
+
+- 🎓 **Certified Ethical Hacker (CEH)** – 79.20%  
+- 📡 **Network Defence Essentials (NDE v1)** – 82.70%  
+[Verify CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=seYJXFBB5L37ScZF3bq4kBSODNMNjc78Ll7VvZ12khc=)  
+[Verify NDE](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=QGFV1K0UM2Fu8+a3T+07+yPMjL1ClOh0w7K5h3WEHpA=)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhileshSingh13&show_icons=true&theme=radical" alt="Nikhilesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niksinikhilesh045&show_icons=true&theme=radical" alt="Nikhilesh's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhileshSingh13&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niksinikhilesh045&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikhileshsingh13)  
-- 📝 [Blog](https://medium.com/@nikhileshsingh13)  
-- 📧 Email: nikhileshsingh.work@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilesh-singh06/)  
+- 📝 [Blog](https://www.knowledgehut.com/blog/security/what-is-tor-in-cyber-security)  
+- 📧 Email: nikhileshsingh045k@gmail.com  
 
 ---
 
