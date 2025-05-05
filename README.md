@@ -19,9 +19,8 @@ I'm a cybersecurity enthusiast and final-year B.Tech Computer Engineering studen
 
 **Languages**: Python, C++, Bash, SQL, C  
 **Security Expertise**: Vulnerability Management, Threat Detection, SIEM, SOAR, Incident Response, Malware Analysis  
-**Tools**:  
-`Metasploit` · `Burp Suite` · `OWASP ZAP` · `TheHive` · `Wazuh` · `Docker` · `MITRE ATT&CK` · `SQLmap` · `Google Cloud`  
-**Frameworks**: Keras, Scikit-learn, TensorFlow  
+**Tools**:  `Metasploit` · `Burp Suite` · `OWASP ZAP` · `TheHive` · `Wazuh` · `Docker` · `MITRE ATT&CK` · `SQLmap` · `Google Cloud`  
+**Frameworks**: Keras, Scikit-learn, TensorFlow, MITRE ATT@CK  
 **OS**: Linux, Windows  
 **DevOps**: CI/CD Pipeline
 
@@ -29,10 +28,8 @@ I'm a cybersecurity enthusiast and final-year B.Tech Computer Engineering studen
 
 ## 🧾 Certifications
 
-- 🎓 **Certified Ethical Hacker (CEH)** – 79.20%  
-- 📡 **Network Defence Essentials (NDE v1)** – 82.70%  
-[Verify CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=seYJXFBB5L37ScZF3bq4kBSODNMNjc78Ll7VvZ12khc=)  
-[Verify NDE](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=QGFV1K0UM2Fu8+a3T+07+yPMjL1ClOh0w7K5h3WEHpA=)
+- 🎓 **[Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=seYJXFBB5L37ScZF3bq4kBSODNMNjc78Ll7VvZ12khc=)** – 79.20%  
+- 📡 **[Network Defence Essentials (NDE v1)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=QGFV1K0UM2Fu8+a3T+07+yPMjL1ClOh0w7K5h3WEHpA=)** – 82.70% 
 
 ---
 
