@@ -38,7 +38,7 @@ I'm a cybersecurity enthusiast and a final-year B.Tech Computer Engineering stud
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Niksinikhilesh045&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Niksinikhilesh045&show_icons=true&include_all_commits=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niksinikhilesh045&layout=compact&theme=radical"/>
 </div>
 
