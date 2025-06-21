@@ -47,7 +47,7 @@ I'm a cybersecurity enthusiast and a final-year B.Tech Computer Engineering stud
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhilesh-singh06/)  
-- 📝 [Blog: What is TOR in Cybersecurity](https://www.knowledgehut.com/blog/security/what-is-tor-in-cyber-security)  
+- 📝 [Blog: What is Tor in Cybersecurity](https://www.knowledgehut.com/blog/security/what-is-tor-in-cyber-security)  
 - 📧 Email: nikhileshsingh045@gmail.com  
 
 ---
