@@ -12,8 +12,8 @@
 I'm a cybersecurity enthusiast and a final-year B.Tech Computer Engineering student, driven by a passion for securing systems and advancing DevSecOps practices. I focus on:
 
 - 🔐 Threat Detection & Security Automation  
-- 🔄 CI/CD pipelines (Jenkins + Automated Security Scanning)  
-- 🐧 Tools like Wazuh, Splunk, TheHive, MITRE ATT&CK & more
+- 🔄 CI/CD pipelines (Docker + Automated Security Scanning)  
+- 🐧 Tools like OWASP ZAP, Burp Suite, Metasploit & more
 
 ---
 
